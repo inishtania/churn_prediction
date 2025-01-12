@@ -20,7 +20,7 @@ This project builds a machine learning model to predict whether a customer will 
 
 ---
 
-## **Approach **
+## **Approach**
 
 ### **Situation**
 The bank faces significant losses due to customer churn, with false negatives (missed churners) costing five times more than false positives.
